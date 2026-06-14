@@ -18,7 +18,7 @@ class linux:
             build.run_pyinstaller()
             print("Build complete, installing build...")
         
-        installdirDefault = "/opt/rohankishore/zennotes"
+        installdirDefault = "/opt/matthewyang/zennotes-plusplus"
         installdir = input(f"Select installation directory (default {installdirDefault}, just press enter):")
         if not installdir:
             installdir = installdirDefault

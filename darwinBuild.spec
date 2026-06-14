@@ -54,7 +54,7 @@ app = BUNDLE(
     info_plist={
         'CFBundleName': 'ZenNotes',
         'CFBundleDisplayName': 'ZenNotes',
-        'CFBundleIdentifier': 'com.rohankishore.zennotes',
+        'CFBundleIdentifier': 'com.matthewyang.zennotesplusplus',
         'CFBundleShortVersionString': '1.5.1',
         'CFBundleVersion': '1.5.1',
         'NSHighResolutionCapable': True,

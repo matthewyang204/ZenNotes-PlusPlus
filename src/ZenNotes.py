@@ -280,8 +280,8 @@ class Window(MSFluentWindow):
             'ZenNotes 📝',
             (
                     "Version : 1.5.1"
-                    + "\n" + "\n" + "\n" + "💝  I hope you'll enjoy using ZenNotes as much as I did while coding it  💝" + "\n" + "\n" + "\n" +
-                    "Made with 💖 By Rohan Kishore"
+                    + "\n" +
+                    "Maintained by Matthew Yang"
             ),
             self
         )
@@ -289,7 +289,7 @@ class Window(MSFluentWindow):
         w.cancelButton.setText('Return')
 
         if w.exec():
-            QDesktopServices.openUrl(QUrl("https://github.com/rohankishore/"))
+            QDesktopServices.openUrl(QUrl("https://github.com/matthewyang204/"))
 
     def onTabChanged(self, index: int):
         self.text_widgets['Markdown'] = self.markdownInterface.txt # Store markdown editor instance in dictionary

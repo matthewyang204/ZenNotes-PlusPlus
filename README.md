@@ -4,13 +4,10 @@
 <div align="center">
   
   <a href="https://opensource.org/licenses/MIT">![License](https://img.shields.io/badge/License-MIT-yellow)</a>
-  <a href="https://github.com/rohankishore/ZenNotes/releases">![Demo](https://img.shields.io/badge/Download-Now-indigo)</a>
-  <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/Fiverr-Hire-green)</a>
+  <a href="https://github.com/matthewyang204/ZenNotes-PlusPlus/releases">![Demo](https://img.shields.io/badge/Download-Now-indigo)</a>
     <a style="text-decoration:none">
-    <img src="https://img.shields.io/github/downloads/rohankishore/ZenNotes/total.svg"/>
+    <img src="https://img.shields.io/github/downloads/matthewyang204/ZenNotes-PlusPlus/total.svg"/>
   </a>
-
-*_ZenNotes is being ported to macOS by @matthewyang204. Check the repo [here](https://github.com/matthewyang204/ZenNotes-Mac-Binaries)_*
   
 </div>
 
