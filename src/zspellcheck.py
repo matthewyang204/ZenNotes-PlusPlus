@@ -14,7 +14,7 @@ from notepadequalequal.correction import *
 
 class SpellChecker(Spelling):
     def __init__(self, text_widget=None):
-        super().__init__(text_widget)
+        super().__init__(text_widget=text_widget)
 
     def _normalize_language_mode(self, language_mode):
         if not language_mode or language_mode == "none":
