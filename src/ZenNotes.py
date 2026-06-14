@@ -22,6 +22,7 @@ from TextWidget import TWidget, get_font_for_platform
 from TitleBar import CustomTitleBar
 from zencodings import write_file, retrieve_file_with_encoding
 from Finder import Finder, FindAndReplace
+from zspellcheck import SpellChecker, approval_dialog
 
 class NoEditorSpecified(Exception):
     pass
